@@ -1,2 +1,2 @@
-# gerador_de_senhas
-Gerador de senhas em python
+# Gerador de Senhas
+## Gerador de senhas em python
